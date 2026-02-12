@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Farhat Hussain 👋
 
-<!--
-**Farhat-92/Farhat-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Software Developer | Java | DSA | MERN Stack
 
-Here are some ideas to get you started:
+I am a software developer focused on building efficient and scalable web applications.
+Currently strengthening my problem-solving skills through Data Structures and Algorithms in Java while developing full stack applications using the MERN stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+**Languages:**
+
+* Java
+* JavaScript
+
+**Frontend:**
+
+* React.js
+* HTML5
+* CSS3
+
+**Backend:**
+
+* Node.js
+* Express.js
+
+**Database:**
+
+* MongoDB
+
+---
+
+## 📌 What I'm Working On
+
+* Solving DSA problems regularly (150+ problems completed)
+* Building full stack projects using MERN
+* Improving system design fundamentals
+
+---
+
+## 🎯 Career Objective
+
+To contribute to impactful software projects while continuously improving my technical expertise in backend systems and scalable architectures.
+
+---
+
+## 📫 Connect With Me
+
+* Email: [businessfarhathussain@gmail.com](mailto:businessfarhathussain@gmail.com)
+
