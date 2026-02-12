@@ -8,3 +8,11 @@ I build efficient and scalable web applications and actively practice Data Struc
 🔹 Focused on clean and optimized code
 
 📫 [businessfarhathussain@gmail.com](mailto:businessfarhathussain@gmail.com)
+
+---
+
+## 🛠 Tech Stack
+
+Java • JavaScript • React • Node.js • Express • MongoDB
+Git • GitHub • Postman • VS Code
+DSA • OOP • REST APIs
